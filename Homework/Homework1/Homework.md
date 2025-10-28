@@ -10,6 +10,7 @@
 ![alt text](image-4.png)
  
 4.	Your 5 SQL queries with results
+
 1.Find authors who have written more than one book
 ![alt text](image-5.png)
  
