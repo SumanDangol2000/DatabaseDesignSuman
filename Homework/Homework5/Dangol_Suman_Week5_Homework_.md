@@ -50,7 +50,7 @@
 **Result:**  
 | studentName | 7th Word   |  
 |-------------|------------|  
-| Suman       | inspiring  |
+| Suman       | while  |
 
 ---
 
