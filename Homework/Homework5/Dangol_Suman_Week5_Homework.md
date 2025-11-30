@@ -76,7 +76,7 @@
 
 **Explanation:** Selects all students whose `favoriteNumber` is less than 7.  
 
-**Result:**  
+**Result (sample):**  
 | student_id | studentName   | favoriteNumber |  
 |------------|---------------|----------------|  
 | S067       | Peter Howard  | 2              |  
